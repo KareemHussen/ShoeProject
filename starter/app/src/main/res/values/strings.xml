@@ -1,3 +1,25 @@
-<resources>
+<resources xmlns:tools="http://schemas.android.com/tools">
     <string name="app_name">ShoeStore</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="email">E-mail</string>
+    <string name="login">Login</string>
+    <string name="welcomeFragment">Welcome Fragment</string>
+    <string name="password">Password</string>
+    <string name="text">Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem IpsumLorem ipsum dolor sit amet comes from a line in section 1.10.32</string>
+    <string name="instructionsFragment">Instructions Fragment</string>
+    <string name="finish">Finish</string>
+    <string name="instructions_text">1- You can scroll in various shoes. \n2- You can add a new shoe.\n3- You can logout via logout button in appbar.\n4- You can navigate via menu in appbar.\n</string>
+    <string name="addShoe">AddShoe</string>
+    <string name="next">Next</string>
+    <string name="shoeImage">ShoeImage</string>
+    <string name="name">Name : </string>
+    <string name="logout">Logout </string>
+    <string name="size">Size : </string>
+    <string name="company">Company : </string>
+    <string name="register">register</string>
+
+    <string name="description">Description : </string>
+    <string name="cancel">Cancel</string>
+    <string name="save">save</string>
 </resources>
